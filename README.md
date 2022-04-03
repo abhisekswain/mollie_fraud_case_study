@@ -3,7 +3,6 @@
 This repository consists the solution for the mollie fraud case study.
 
 The python scripts can be run in the following order:
-```
 
 ## 1. Create features
 If you haven't done so download the data/csv file and place it in the data folder. Change to the src folder as all the python scripts are there. To generate the necessary data frames for training and inference you need to run the `feature_creation.py` file first. 
